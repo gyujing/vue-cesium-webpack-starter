@@ -12,6 +12,13 @@ git clone git@github.com:martinageradams/vue-cesium-example.git
 ```
 yarn install
 ```
+```
+npm install
+```
+node.x18
+```
+pnpm install
+```
 
 ### Compiles and hot-reloads for development
 ```
